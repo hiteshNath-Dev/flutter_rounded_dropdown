@@ -100,19 +100,20 @@ class _MyHomePageState extends State<MyHomePage> {
 
 ## Screens
 
-![Example app Image](https://drive.google.com/file/d/1JYM_rl9qmK_cuHMb8-ZKZy_Bm2egUjSm/view)
+<img src="https://github.com/hiteshNath-Dev/flutter_rounded_dropdown/blob/main/example/screenshots/Screenshot_1710235907.png?raw=true" alt="screenshot" height="500"/>
 
-![Example app Demo](https://drive.google.com/file/d/1JZZJm-0KnGwxNWMdcm-gAn_irP_7piDQ/view)
 
+<img src="https://github.com/hiteshNath-Dev/flutter_rounded_dropdown/blob/main/example/screenshots/Screenshot_1710235915.png?raw=true" alt="screenshot" height="500"/>
+
+
+<img src="https://github.com/hiteshNath-Dev/flutter_rounded_dropdown/blob/main/example/screenshots/Screenshot_1710235922.png?raw=true" alt="screenshot" height="500"/>
 
 ## Issues
 
-Please file any issues, bugs or feature request as an issue on our [GitHub](https://github.com/medyas/flutter_spin_wheel_menu/issues) page.
+Please file any issues, bugs or feature request as an issue on our [GitHub](https://github.com/hiteshNath-Dev/flutter_rounded_dropdown/issues) page.
 
 ## Want to contribute
 
-If you would like to contribute to the plugin (e.g. by improving the documentation, solving a bug or adding a cool new feature), please carefully review our [contribution guide](CONTRIBUTING.md) and send us your [pull request](https://github.com/fussion-integrator/flutter_spin_wheel_menu/pulls).
+If you would like to contribute to the package (e.g. by improving the documentation, solving a bug or adding a cool new feature)send us your [pull request](https://github.com/hiteshNath-Dev/flutter_rounded_dropdown/issues).
 
-## Credits
 
-Credits goes to [ChidiebereEdeh](https://github.com/fussion-integrator) as most of this package comes from his implementation.
